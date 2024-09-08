@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Laura and I'm a estudant from programation.</h2>
+<h2 align="left">Olá, meu nome é Laura e sou estudante de programação.</h2>
 
 ###
 
